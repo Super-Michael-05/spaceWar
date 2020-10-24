@@ -6,10 +6,10 @@
 
 <ul>
   <li>Shoot - SPACE</li>
-  <li>45° to the right - D</li>
-  <li>45° to the left - A</li>
   <li>Accelerate - W</li>
+  <li>45° to the left - A</li>
   <li>Decelerate - S</li>
+  <li>45° to the right - D</li>  
 </ul>
 
 <h2 align="left">Project images</h2>
