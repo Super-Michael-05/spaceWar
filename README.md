@@ -1,6 +1,6 @@
 <h1 align="center">spaceWar</h1>
 
-![Banner](https://raw.githubusercontent.com/Super-Michael-05/myCV/master/README_assets/banner.png)
+![Banner](https://raw.githubusercontent.com/Super-Michael-05/spaceWar/master/README_assets/banner.png)
 
 <h2 align="left">Controls</h2>
 
@@ -16,4 +16,4 @@
 
 ![1st](https://raw.githubusercontent.com/Super-Michael-05/spaceWar/master/README_assets/Screenshot%20(26).png)
 
-<footer>Created by Mikael Kolehmainen with HTML, CSS, JS.</footer>
+<footer>Created by Mikael Kolehmainen with Python.</footer>
